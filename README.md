@@ -1,4 +1,4 @@
-# Pond_Scum
+# Pond Scum
 Manipulating matrices to solve linear equations
 
 1 of 4 programming assignments for Darin Goldstein's 328 Honors class at CSULB.
